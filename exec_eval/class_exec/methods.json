@@ -1,0 +1,8 @@
+{
+  "album": [
+    "title", "group", "year", "lable", "length", "tracks_count"
+  ],
+  "group": [
+    "title", "creation_year", "creation_place", "favorite_track"
+  ]
+}
