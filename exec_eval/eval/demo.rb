@@ -1,5 +1,3 @@
-class Animal; end
-
 p 'Enter your code ...'
 # puts 1+2
 code = gets
