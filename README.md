@@ -11,4 +11,5 @@
   <li>class_exec, class_eval, instance_exec, instance_eval and eval</li>
   <li>Include, extend and prepend</li>
   <li>Private, public, protected access</li>
+  <li>Delegate and Forwardable</li>
 </ul>
