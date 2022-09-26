@@ -12,4 +12,5 @@
   <li>Include, extend and prepend</li>
   <li>Private, public, protected access</li>
   <li>Delegate and Forwardable</li>
+  <li>Pattern matching</li>
 </ul>
