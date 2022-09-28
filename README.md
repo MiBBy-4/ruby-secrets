@@ -13,4 +13,5 @@
   <li>Private, public, protected access</li>
   <li>Delegate and Forwardable</li>
   <li>Pattern matching</li>
+  <li>Refinements and Monkey Patching</li>
 </ul>
